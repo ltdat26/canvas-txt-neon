@@ -127,7 +127,7 @@ class Text extends DisplayObject {
 
   const size = 40
   const largeSize = 300
-  const data = getImageData('んや', size)
+  const data = getImageData('ダト', size)
   const text = new Text(
     canvas,
     ctx,
